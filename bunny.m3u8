@@ -1,0 +1,11 @@
+#EXTM3U 
+#EXT-X-VERSION:7 
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXT-X-PLAYLIST-TYPE:VOD 
+#EXT-X-TARGETDURATION:25 
+#EXTINF:8.1270, 
+https://storage.googleapis.com/audyo-staging/audyo/06e0a3ad-96ad-4818-967b-cc4c007fb562.ts 
+#EXTINF:10.000, 
+https://test-streams.mux.dev/x36xhzz/url_6/url_870/193039199_mp4_h264_aac_hq_7.ts
+#EXTINF:8.9861, 
+https://storage.googleapis.com/audyo-staging/audyo/536e06db-1f07-4262-8fca-935fa2e57a93.ts #EXT-X-ENDLIST
